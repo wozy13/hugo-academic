@@ -73,4 +73,6 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-
+disableKinds:
+- taxonomy
+- term
