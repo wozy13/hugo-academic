@@ -26,17 +26,18 @@ publication_types:
 authors:
   - Wo
   - Zhongyuan
+  - Filipo
 author_notes: []
-publication: In *Wowchemy Conference*
+publication: In "ASME Journal of Applied Mechanics"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Bending Stability of Corrugated Tubes With Anisotropic Frustum Shells
 doi: 10.1115/1.4053267
-featured: true
+featured: false
 tags: []
 projects: []
 image:
