@@ -74,5 +74,3 @@ sitemap:
 minify:
   _merge: deep
 
-[taxonomies]
-category = "categories"
