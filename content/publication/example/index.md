@@ -1,79 +1,54 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Thin-walled corrugated tubes that have a bending multistability, such
+  as the bendy straw, allow for variable orientations over the tube length.
+  Compared to the long history of corrugated tubes in practical applications,
+  the mechanics of the bending stability and how it is affected by the cross
+  sections and other geometric parameters remain unknown. To explore the
+  geometry-driven bending stabilities, we used several tools, including a
+  reduced-order simulation package, a simplified linkage model, and physical
+  prototypes. We found the bending stability of a circular two-unit corrugated
+  tube is dependent on the longitudinal geometry and the stiffness of the crease
+  lines that connect separate frusta. Thinner shells, steeper cones, and weaker
+  creases are required to achieve bending bi-stability. We then explored how the
+  bending stability changes as the cross section becomes elongated or distorted
+  with concavity. We found the bending bi-stability is favored by deep and
+  convex cross sections, while wider cross sections with a large concavity
+  remain mono-stable. The different geometries influence the amounts of
+  stretching and bending energy associated with bending the tube. The stretching
+  energy has a bi-stable profile and can allow for a stable bent configuration,
+  but it is counteracted by the bending energy which increases monotonically.
+  The findings from this work can enable informed design of corrugated tube
+  systems with desired bending stability behavior.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
+  - Wo
+  - Zhongyuan
+author_notes: []
 publication: In *Wowchemy Conference*
+summary: ""
+url_dataset: ""
+url_project: ""
 publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+url_source: ""
+url_video: ""
+title: Bending Stability of Corrugated Tubes With Anisotropic Frustum Shells
+doi: 10.1115/1.4053267
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: null
+date: 2022-09-12T18:25:30.506Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
