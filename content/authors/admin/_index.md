@@ -4,9 +4,9 @@ role: Ph.D. Candidate in Structural Engineering
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Origami Structures
+  - Elastic Buckling
+  - Computational Methods of Elasticity
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,7 +19,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhongyuan-wo/
 organizations:
   - name: University of Michigan
     url: https://umich.edu/
