@@ -52,7 +52,6 @@ imaging:
   anchor: smart
 timeout: 600000
 taxonomies:
-  tag: tags
   category: categories
   publication_type: publication_types
   author: authors
@@ -73,6 +72,3 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
-disableKinds:
-- taxonomy
-- term
