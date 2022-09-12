@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Student Research Assistant
+    company: University of Michigan
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Ann Arbor, Michigan
+    date_start: '2017-09-01'
+    date_end: '2022-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
