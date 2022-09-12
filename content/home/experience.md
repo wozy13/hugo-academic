@@ -39,7 +39,7 @@ experience:
   - title: Graduate Student Research Assistant
     company: University of Michigan
     company_url: ''
-    company_logo: org-x
+    company_logo: U-M_Logo-PMS
     location: Ann Arbor, Michigan
     date_start: '2017-09-01'
     date_end: '2022-12-31'
