@@ -39,7 +39,7 @@ content:
     longitude: '-122.1697'
   directions: Enter GG Brown Building and take the stairs to Office 1124 on the basement floor
   office_hours:
-    - 'Weekdays 9:00 to 17:00
+    - 'Weekdays 9:00 to 17:00'
 
 design:
   columns: '2'
