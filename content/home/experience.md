@@ -25,7 +25,7 @@ experience:
   - title: Project Consultant
     company: SGH
     company_url: 'https://www.sgh.com/'
-    company_logo: (SGH_Logo_Square.jpg)
+    company_logo: SGH_Logo_Square
     location: Waltham, MA
     date_start: '2023-01-23'
     date_end: ''
