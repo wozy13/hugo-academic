@@ -1,8 +1,7 @@
 ---
 title: Zhongyuan Wo
 role: Ph.D. Candidate in Structural Engineering
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Origami structures, elastic buckling, and reconfigurable structures.
 interests:
   - Origami Structures
   - Elastic Buckling
