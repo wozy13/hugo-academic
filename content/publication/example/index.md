@@ -24,8 +24,8 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Wo, Z.
-  - Filipov, E.T.
+  - Zhongyuan Wo
+  - Evgueni T. Filipov
 author_notes: []
 publication: In "ASME Journal of Applied Mechanics"
 summary: ""
