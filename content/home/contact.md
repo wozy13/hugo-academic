@@ -13,7 +13,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: wozhy [at] outlook.com
-  phone: 888 888 88 88
+  # phone: 888 888 88 88
   address:
     street: 2350 Hayward St
     city: Ann Arbor
