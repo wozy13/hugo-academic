@@ -34,16 +34,20 @@ experience:
         
         * Analysing
         * Modelling
-        * Deploying
+        * Report writing
 
   - title: Graduate Student Research Assistant
     company: University of Michigan
-    company_url: ''
+    company_url: 'https://drsl.engin.umich.edu/'
     company_logo: U-M_Logo-PMS
     location: Ann Arbor, Michigan
     date_start: '2017-09-01'
     date_end: '2022-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:
+        
+        * Advisor: Prof. Evgueni T. Filipov
+        * Origami-inspired reconfigurable structures
+        * Teaching assistant of CEE 413: Design of Metal Structures
 
 design:
   columns: '2'
