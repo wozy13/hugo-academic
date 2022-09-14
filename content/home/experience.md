@@ -43,7 +43,7 @@ experience:
     location: Ann Arbor, Michigan
     date_start: '2017-09-01'
     date_end: '2022-12-31'
-    description:
+    description: |2-
         
         * Advisor: Prof. Evgueni T. Filipov
         * Origami-inspired reconfigurable structures
