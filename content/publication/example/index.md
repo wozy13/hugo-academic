@@ -28,6 +28,7 @@ publication_types:
   - "2"
 authors:
   - Zhongyuan Wo
+  - Julia M. Raneses
   - Evgueni T. Filipov
 author_notes: []
 publication: ASME Journal of Mechanisms and Robotics
