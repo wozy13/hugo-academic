@@ -28,6 +28,6 @@ image:
 date: 2022-09-12T18:25:30.506Z
 url_slides: ""
 publishDate: 2022
-url_poster: ""
+url_poster: "NSF_Competition_Poster_IMECE_2022.pdf"
 url_code: ""
 ---
