@@ -28,7 +28,7 @@ abstract: Thin-walled corrugated tubes that have a bending multistability, such
   systems with desired bending stability behavior.
 draft: false
 featured: false
-url_pdf: ""
+url_pdf: "straw.pdf"
 image:
   filename: ""
   focal_point: Smart
