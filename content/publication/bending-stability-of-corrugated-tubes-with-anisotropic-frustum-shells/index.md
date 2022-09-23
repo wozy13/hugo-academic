@@ -3,7 +3,8 @@ title: Bending Stability of Corrugated Tubes with Anisotropic Frustum Shells
 publication_types:
   - "2"
 authors:
-  - Zhongyuan
+  - Zhongyuan Wo
+  - Evgueni T. Filipov
 doi: 10.1115/1.4053267
 publication: ASME Journal of Applied Mechanics
 abstract: Thin-walled corrugated tubes that have a bending multistability, such
