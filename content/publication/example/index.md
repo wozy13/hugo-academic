@@ -1,24 +1,27 @@
 ---
-abstract: Thin-walled corrugated tubes that have a bending multistability, such
-  as the bendy straw, allow for variable orientations over the tube length.
-  Compared to the long history of corrugated tubes in practical applications,
-  the mechanics of the bending stability and how it is affected by the cross
-  sections and other geometric parameters remain unknown. To explore the
-  geometry-driven bending stabilities, we used several tools, including a
-  reduced-order simulation package, a simplified linkage model, and physical
-  prototypes. We found the bending stability of a circular two-unit corrugated
-  tube is dependent on the longitudinal geometry and the stiffness of the crease
-  lines that connect separate frusta. Thinner shells, steeper cones, and weaker
-  creases are required to achieve bending bi-stability. We then explored how the
-  bending stability changes as the cross section becomes elongated or distorted
-  with concavity. We found the bending bi-stability is favored by deep and
-  convex cross sections, while wider cross sections with a large concavity
-  remain mono-stable. The different geometries influence the amounts of
-  stretching and bending energy associated with bending the tube. The stretching
-  energy has a bi-stable profile and can allow for a stable bent configuration,
-  but it is counteracted by the bending energy which increases monotonically.
-  The findings from this work can enable informed design of corrugated tube
-  systems with desired bending stability behavior.
+abstract: Energy absorption devices are widely used to mitigate damage from
+  collisions and impact loads. Due to the inherent uncertainty of possible
+  impact characteristics, passive energy absorbers with fixed mechanical
+  properties are not capable of serving in versatile application scenarios.
+  Here, we explore a deployable design concept where origami tubes can extend,
+  lock, and are intended to absorb energy through crushing (buckling and
+  plasticity). This system concept is unique because origami deployment can
+  increase the crushing distance between two impacting bodies and can tune the
+  energy absorption characteristics. We show that the stiffness, peak crushing
+  force, and total energy absorption of the origami tubes all increase with the
+  deployed state. We present numerical and experimental studies that investigate
+  these tunable behaviors under both static and dynamic scenarios. The
+  energy-absorbing performance of the deployed origami tubes is slightly better
+  than conventional prismatic tubes in terms of total absorbed energy and peak
+  force. When the origami tubes are only partially deployed, they exhibit a
+  nearly elastic collapse behavior; however, when they are locked in a more
+  deployed configuration, they can experience non-recoverable crushing with
+  higher energy absorption. Parametric studies reveal that the geometric design
+  of the tube can control the nonlinear relationship between energy absorption
+  and deployment. A physical model shows the potential of the self-locking after
+  deployment. This concept for deployable energy-absorbing origami tubes can
+  enable future protective systems with on-demand properties for different
+  impact scenarios.
 slides: ""
 url_pdf: ""
 publication_types:
@@ -27,15 +30,15 @@ authors:
   - Zhongyuan Wo
   - Evgueni T. Filipov
 author_notes: []
-publication: In "ASME Journal of Applied Mechanics"
+publication: ASME Journal of Mechanisms and Robotics
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Bending Stability of Corrugated Tubes With Anisotropic Frustum Shells
-doi: 10.1115/1.4053267
+title: Locking Zipper-Coupled Origami Tubes for Deployable Energy Absorption
+doi: 10.1115/1.4054363
 featured: false
 tags: []
 projects: []
@@ -47,16 +50,15 @@ image:
 date: 2022-09-12T18:25:30.506Z
 url_slides: ""
 publishDate: 2022
-url_poster: "NSF_Competition_Poster_IMECE_2022.pdf"
+url_poster: NSF_Competition_Poster_IMECE_2022.pdf
 url_code: ""
 ---
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including code, math, and images.
