@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zhongyuan Wo is a Ph.D. candidate at the University of Michigan. He will join [Simpson Gumpertz & Heger](https://www.sgh.com/) after graduation.
+Zhongyuan Wo is a Ph.D. candidate at the University of Michigan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Wo.pdf" "newtab" >}}resumé{{< /staticref >}}
